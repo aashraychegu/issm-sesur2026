@@ -3,3 +3,5 @@ qgis/*
 python_stuff/*
 python_stuff
 *.*log
+*.asv
+
