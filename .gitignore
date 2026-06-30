@@ -4,4 +4,9 @@ python_stuff/*
 python_stuff
 *.*log
 *.asv
-
+ISSM-Windows-MATLAB/*
+ISSM-Windows-MATLAB/test/*
+ISSM-Windows-MATLAB/scripts/*
+ISSM-Windows-MATLAB/execution/*
+ISSM-Windows-MATLAB/examples/*
+ISSM-Windows-MATLAB/bin/*

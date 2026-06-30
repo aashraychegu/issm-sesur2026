@@ -1,5 +1,5 @@
 clc; clear;
-addpath('C:\Users\aashr\ISSM-Windows-MATLAB\bin');
+addpath('.\ISSM-Windows-MATLAB\bin');
 
 doPlot = false;
 load('data/data_pinns_Amery.mat');
